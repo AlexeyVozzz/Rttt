@@ -1,3 +1,0 @@
-settings:
-sound: 50
-music: 50
